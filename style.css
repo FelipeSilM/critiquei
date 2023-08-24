@@ -1,0 +1,61 @@
+body{
+    background-color: #05010C;
+}
+
+header{
+    background-color: #05010C;
+}
+header .navbar-brand{
+    font-family: 'Pacifico', cursive;
+    color: #FFED00;
+    cursor: pointer;
+}
+header .navbar-brand:hover{
+    color: white;
+}
+
+nav{
+    text-align: center;
+}
+
+.carousel-caption{
+    left: 0%;
+    right: 0%;
+    bottom: -5%;
+    padding: 15px;
+    padding-bottom: 100px;
+    background-image: linear-gradient(transparent, rgb(0, 0, 0));
+}
+
+.carousel-caption > div{
+    padding: 40px;
+    background-color: hsla(0, 0%, 0%, 0.479);
+    border-radius: 40px;
+
+}
+.carousel-caption h5{
+    text-align: initial;
+    font-size: 40px;
+}
+.carousel-caption p{
+    text-align: initial;
+}
+
+.nav-item a{
+    color: white;
+}
+
+.carousel-control-prev:hover{
+    background-color: rgba(0, 0, 0, 0.225);
+}
+.carousel-control-next:hover{
+    background-color: rgba(0, 0, 0, 0.225);
+}
+
+i, form *{
+    color: white;
+}
+
+textarea{
+    resize: none;
+}
