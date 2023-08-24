@@ -32,6 +32,8 @@ Como parte de um exercicio para Bootstrap, o desenvolvedor deve ser capaz de:
 - Desenvolver um site responsivo utilizando op sistema de colunas do framework
 - implementar componentes do Bootstrap, como o carousel e cards
 
+Veja o resultado através do <a href="https://critiquei.vercel.app/">link do Vercel</a>
+
 ## O que aprendi
 
 Bootstrap sempre foi um frameowrk voltado para ajudar os desenvolvedores front-end a ter uma layout mais responsivo e a adicionar componentes complexos com poucas classes e atributos, mas eu sempre tive uma certa dificuldade com ele, e este projeto foi de grande auxilio para meu aprendizado
