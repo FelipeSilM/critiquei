@@ -1,10 +1,7 @@
-body{
+body, header{
     background-color: #05010C;
 }
 
-header{
-    background-color: #05010C;
-}
 header .navbar-brand{
     font-family: 'Pacifico', cursive;
     color: #FFED00;
@@ -12,6 +9,12 @@ header .navbar-brand{
 }
 header .navbar-brand:hover{
     color: white;
+}
+
+
+mark{
+    background-color: #FFED00;
+    color: black;
 }
 
 nav{
@@ -52,7 +55,7 @@ nav{
     background-color: rgba(0, 0, 0, 0.225);
 }
 
-i, form *{
+i, form{
     color: white;
 }
 
