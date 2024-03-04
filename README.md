@@ -29,7 +29,7 @@ O site Critiquei! é uma página voltada para reunir criticas de cinema e medir 
 
 Como parte de um exercicio para Bootstrap, o desenvolvedor deve ser capaz de:
 
-- Desenvolver um site responsivo utilizando op sistema de colunas do framework
+- Desenvolver um site responsivo utilizando o sistema de colunas do framework
 - implementar componentes do Bootstrap, como o carousel e cards
 
 Veja o resultado através do <a href="https://critiquei.vercel.app/">link do Vercel</a>
